@@ -18,5 +18,5 @@ ListadoNoticias.propTypes = {
     noticias: PropTypes.array.isRequired
 }
 
- 
+ //this is a comment
 export default ListadoNoticias;
